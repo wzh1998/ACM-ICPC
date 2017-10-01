@@ -15,6 +15,7 @@
 		A60DA3721F2C20B7002E6C06 /* pat-basic-1024.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A60DA3711F2C20B7002E6C06 /* pat-basic-1024.cpp */; };
 		A60DA3741F2C4559002E6C06 /* pat-advance-1011.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A60DA3731F2C4559002E6C06 /* pat-advance-1011.cpp */; };
 		A60DA3761F2C83E3002E6C06 /* pat-advance-1007.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A60DA3751F2C83E3002E6C06 /* pat-advance-1007.cpp */; };
+		A61670161F80D5560038D05E /* POJ_3820.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A61670151F80D5560038D05E /* POJ_3820.cpp */; };
 		A61DFA571F2ED88B00EF8986 /* pat-basic-1026.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A61DFA561F2ED88B00EF8986 /* pat-basic-1026.cpp */; };
 		A61EFE211F4C466F000BE258 /* pat-basic-1049.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A61EFE201F4C466F000BE258 /* pat-basic-1049.cpp */; };
 		A627F7D71EF8044900300B66 /* 1052.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A627F7D61EF8044900300B66 /* 1052.cpp */; };
@@ -106,6 +107,7 @@
 		A60DA3711F2C20B7002E6C06 /* pat-basic-1024.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1024.cpp"; sourceTree = "<group>"; };
 		A60DA3731F2C4559002E6C06 /* pat-advance-1011.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-advance-1011.cpp"; sourceTree = "<group>"; };
 		A60DA3751F2C83E3002E6C06 /* pat-advance-1007.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-advance-1007.cpp"; sourceTree = "<group>"; };
+		A61670151F80D5560038D05E /* POJ_3820.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = POJ_3820.cpp; sourceTree = "<group>"; };
 		A61DFA561F2ED88B00EF8986 /* pat-basic-1026.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1026.cpp"; sourceTree = "<group>"; };
 		A61EFE201F4C466F000BE258 /* pat-basic-1049.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1049.cpp"; sourceTree = "<group>"; };
 		A627F7D31EF8044900300B66 /* ACM */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ACM; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -208,6 +210,7 @@
 			isa = PBXGroup;
 			children = (
 				A6A828F41F7D6DC3004DA169 /* POJ_3988.cpp */,
+				A61670151F80D5560038D05E /* POJ_3820.cpp */,
 				A627F7D61EF8044900300B66 /* 1052.cpp */,
 				A68372C71F6507CD006A8BDC /* 2017_icpc_SY_04.cpp */,
 				A6A828F21F7CD145004DA169 /* bjut_oj_新生赛.cpp */,
@@ -382,6 +385,7 @@
 				A6D423BC1F231E9800BF8219 /* pat-basic-1018.cpp in Sources */,
 				A61EFE211F4C466F000BE258 /* pat-basic-1049.cpp in Sources */,
 				A661EB7F1F300BDB007E3A6F /* pat-basic-1029.cpp in Sources */,
+				A61670161F80D5560038D05E /* POJ_3820.cpp in Sources */,
 				A6580EBA1F2898BB00DE9D7B /* pat-basic-1019.cpp in Sources */,
 				A6D423B61F22F8BE00BF8219 /* pat-basic-1013.cpp in Sources */,
 				A627F7D71EF8044900300B66 /* 1052.cpp in Sources */,
