@@ -1,10 +1,11 @@
-//
-//  POJ_3820.cpp
-//  ACM
-//
-//  Created by 王子豪 on 2017/10/1.
-//  Copyright © 2017年 王子豪. All rights reserved.
-//
+/*
+    本题结合利用字符串读写处理以及栈的应用来实现简易XML语法是否有效的判断。
+    Case1: 若当前字符为纯文字信息，继续判断之后字符。
+    Case2: 若为‘<’号，利用构造好的find函数搜索‘<’号之后的’/’以及由小写字母或数字组合而成的tag字符串。
+    Case3:若当前字符为‘&‘ ,利用 find函数搜索’&’之后的字符串.
+    Case4：除此以外其他情况答案均为invalid。
+    在所有字符判断完成后，若答案为valid，还需对使用过的栈进行是否为空的判断，若栈不为空，则答案为invalid。
+ */
 
 #include <iostream>
 #include <stdio.h>
@@ -43,7 +44,6 @@ bool find(char findwhat,char findin){
 }
 
 bool truefind(string x){
-    
     for(position = 0;(current + position) < test.length();position++){
         if(find(x[position],test[position + current]) == false) break;
         if(x[position] == '\0') return false;
@@ -77,11 +77,8 @@ int main(void){
                 while(truefind("A"));
                 name_end = current;
                 tag = test.substr(name_start,name_end - name_start);
-                
-                //            if(tag == "") return false;
-                
-                if(slash_start == false) slash_end = truefind("/");//如果一开始就没找到'/',那就在tag之后找
-                else slash_end = false; //如果一开始就有‘／’的话，之后就不找了
+                if(slash_start == false) slash_end = truefind("/");
+                else slash_end = false;
                 if(truefind(">") == false){
                     result = false;
                     break;
