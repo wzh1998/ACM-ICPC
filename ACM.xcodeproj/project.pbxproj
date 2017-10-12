@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A603C5D11F8FB3530074F28E /* pat-basic-1069.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A603C5D01F8FB3530074F28E /* pat-basic-1069.cpp */; };
 		A6067CE71F46F99100877548 /* pat-basic-1040.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6067CE61F46F99100877548 /* pat-basic-1040.cpp */; };
 		A6067CE91F46FE7600877548 /* pat-basic-1041.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6067CE81F46FE7600877548 /* pat-basic-1041.cpp */; };
 		A6067CEB1F47118500877548 /* pat-basic-1042.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6067CEA1F47118500877548 /* pat-basic-1042.cpp */; };
@@ -100,6 +101,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A603C5D01F8FB3530074F28E /* pat-basic-1069.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1069.cpp"; sourceTree = "<group>"; };
 		A6067CE61F46F99100877548 /* pat-basic-1040.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1040.cpp"; sourceTree = "<group>"; };
 		A6067CE81F46FE7600877548 /* pat-basic-1041.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1041.cpp"; sourceTree = "<group>"; };
 		A6067CEA1F47118500877548 /* pat-basic-1042.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1042.cpp"; sourceTree = "<group>"; };
@@ -212,6 +214,7 @@
 			isa = PBXGroup;
 			children = (
 				A6A828F41F7D6DC3004DA169 /* POJ_3988.cpp */,
+				A603C5D01F8FB3530074F28E /* pat-basic-1069.cpp */,
 				A61670151F80D5560038D05E /* POJ_3820.cpp */,
 				A61670171F8137E90038D05E /* POJ_3766.cpp */,
 				A627F7D61EF8044900300B66 /* 1052.cpp */,
@@ -412,6 +415,7 @@
 				A61DFA571F2ED88B00EF8986 /* pat-basic-1026.cpp in Sources */,
 				A687F6E11F6175A900D943F7 /* 2015_ICPC_ShenYang_04.cpp in Sources */,
 				A6D423BE1F2323AF00BF8219 /* pat-basic-1017.cpp in Sources */,
+				A603C5D11F8FB3530074F28E /* pat-basic-1069.cpp in Sources */,
 				A6F98D4D1F56FA8600DA7698 /* pat-basic-1057.cpp in Sources */,
 				A6BF0C421F0B2D550083A833 /* pat-basic-1001.cpp in Sources */,
 				A6067CED1F471A7600877548 /* pat-basic-1043.cpp in Sources */,
