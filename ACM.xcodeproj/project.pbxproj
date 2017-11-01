@@ -59,6 +59,8 @@
 		A69FF23E1FA9C5DE003D9CC9 /* POJ_3617.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A69FF23D1FA9C5DE003D9CC9 /* POJ_3617.cpp */; };
 		A69FF2401FA9EB1C003D9CC9 /* bupt_DS_1027_E.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A69FF23F1FA9EB1C003D9CC9 /* bupt_DS_1027_E.cpp */; };
 		A69FF2421FA9EB5D003D9CC9 /* bupt_1027_DS_D.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A69FF2411FA9EB5D003D9CC9 /* bupt_1027_DS_D.cpp */; };
+		A69FF2441FAA0757003D9CC9 /* POJ_2376.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A69FF2431FAA0757003D9CC9 /* POJ_2376.cpp */; };
+		A69FF2461FAA322B003D9CC9 /* POJ_3040.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A69FF2451FAA322B003D9CC9 /* POJ_3040.cpp */; };
 		A6A004271F4D2A2100B23641 /* pat-basic-1050.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6A004261F4D2A2100B23641 /* pat-basic-1050.cpp */; };
 		A6A828F31F7CD145004DA169 /* bjut_oj_新生赛.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6A828F21F7CD145004DA169 /* bjut_oj_新生赛.cpp */; };
 		A6A828F51F7D6DC3004DA169 /* POJ_3988.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6A828F41F7D6DC3004DA169 /* POJ_3988.cpp */; };
@@ -166,6 +168,8 @@
 		A69FF23D1FA9C5DE003D9CC9 /* POJ_3617.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = POJ_3617.cpp; sourceTree = "<group>"; };
 		A69FF23F1FA9EB1C003D9CC9 /* bupt_DS_1027_E.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = bupt_DS_1027_E.cpp; sourceTree = "<group>"; };
 		A69FF2411FA9EB5D003D9CC9 /* bupt_1027_DS_D.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = bupt_1027_DS_D.cpp; sourceTree = "<group>"; };
+		A69FF2431FAA0757003D9CC9 /* POJ_2376.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = POJ_2376.cpp; sourceTree = "<group>"; };
+		A69FF2451FAA322B003D9CC9 /* POJ_3040.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = POJ_3040.cpp; sourceTree = "<group>"; };
 		A6A004261F4D2A2100B23641 /* pat-basic-1050.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1050.cpp"; sourceTree = "<group>"; };
 		A6A828F21F7CD145004DA169 /* bjut_oj_新生赛.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "bjut_oj_新生赛.cpp"; sourceTree = "<group>"; };
 		A6A828F41F7D6DC3004DA169 /* POJ_3988.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = POJ_3988.cpp; sourceTree = "<group>"; };
@@ -252,7 +256,9 @@
 				A61670171F8137E90038D05E /* POJ_3766.cpp */,
 				A6A828F41F7D6DC3004DA169 /* POJ_3988.cpp */,
 				A6E2A5331FA42719008F9512 /* POJ_3069.cpp */,
+				A69FF2451FAA322B003D9CC9 /* POJ_3040.cpp */,
 				A69FF23D1FA9C5DE003D9CC9 /* POJ_3617.cpp */,
+				A69FF2431FAA0757003D9CC9 /* POJ_2376.cpp */,
 				A627F7D61EF8044900300B66 /* 1052.cpp */,
 				A68372C71F6507CD006A8BDC /* 2017_icpc_SY_04.cpp */,
 				A6A828F21F7CD145004DA169 /* bjut_oj_新生赛.cpp */,
@@ -425,6 +431,7 @@
 				A65A66A11F4B067F00370503 /* pat-basic-1047.cpp in Sources */,
 				A6A828F51F7D6DC3004DA169 /* POJ_3988.cpp in Sources */,
 				A6F773021F2B0B6B00CB1543 /* pat-basic-1022.cpp in Sources */,
+				A69FF2441FAA0757003D9CC9 /* POJ_2376.cpp in Sources */,
 				A68372C81F6507CD006A8BDC /* 2017_icpc_SY_04.cpp in Sources */,
 				A62887F71F173C1000D05910 /* pat-advance-1005.cpp in Sources */,
 				A60DA3721F2C20B7002E6C06 /* pat-basic-1024.cpp in Sources */,
@@ -463,6 +470,7 @@
 				A603C5D11F8FB3530074F28E /* pat-basic-1069.cpp in Sources */,
 				A67A08911F9AE74900D0D961 /* 2017秋集训_P34.cpp in Sources */,
 				A6F98D4D1F56FA8600DA7698 /* pat-basic-1057.cpp in Sources */,
+				A69FF2461FAA322B003D9CC9 /* POJ_3040.cpp in Sources */,
 				A6BF0C421F0B2D550083A833 /* pat-basic-1001.cpp in Sources */,
 				A6067CED1F471A7600877548 /* pat-basic-1043.cpp in Sources */,
 				A62887FB1F175E5500D05910 /* pat-advance-1004.cpp in Sources */,
