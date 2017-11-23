@@ -92,6 +92,7 @@
 		A6BF0C4C1F0BA6DD0083A833 /* pat-advance-1002.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6BF0C4B1F0BA6DD0083A833 /* pat-advance-1002.cpp */; };
 		A6BF0C611F0C97D40083A833 /* pat-basic-1003.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6BF0C601F0C97D40083A833 /* pat-basic-1003.cpp */; };
 		A6C017751F55A47F000CC3D8 /* Bash Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6C017741F55A47F000CC3D8 /* Bash Game.cpp */; };
+		A6C9FC881FC7146A006CA679 /* 2016_蓝桥校选_D.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6C9FC871FC7146A006CA679 /* 2016_蓝桥校选_D.cpp */; };
 		A6CFAFDA1F1A152300BFBBD3 /* pat-top-1002.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6CFAFD91F1A152300BFBBD3 /* pat-top-1002.cpp */; };
 		A6D423B61F22F8BE00BF8219 /* pat-basic-1013.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6D423B51F22F8BE00BF8219 /* pat-basic-1013.cpp */; };
 		A6D423B81F22FE7400BF8219 /* pat-basic-1014.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6D423B71F22FE7400BF8219 /* pat-basic-1014.cpp */; };
@@ -211,6 +212,7 @@
 		A6BF0C4B1F0BA6DD0083A833 /* pat-advance-1002.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-advance-1002.cpp"; sourceTree = "<group>"; };
 		A6BF0C601F0C97D40083A833 /* pat-basic-1003.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1003.cpp"; sourceTree = "<group>"; };
 		A6C017741F55A47F000CC3D8 /* Bash Game.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Bash Game.cpp"; sourceTree = "<group>"; };
+		A6C9FC871FC7146A006CA679 /* 2016_蓝桥校选_D.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "2016_蓝桥校选_D.cpp"; sourceTree = "<group>"; };
 		A6CFAFD91F1A152300BFBBD3 /* pat-top-1002.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-top-1002.cpp"; sourceTree = "<group>"; };
 		A6D423B51F22F8BE00BF8219 /* pat-basic-1013.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1013.cpp"; sourceTree = "<group>"; };
 		A6D423B71F22FE7400BF8219 /* pat-basic-1014.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1014.cpp"; sourceTree = "<group>"; };
@@ -263,6 +265,7 @@
 			children = (
 				A6504A301FC3EFBA00726952 /* 2016_蓝桥校选_A.cpp */,
 				A661BD3B1FC5BA4400D9A398 /* 2016_蓝桥校选_B.cpp */,
+				A6C9FC871FC7146A006CA679 /* 2016_蓝桥校选_D.cpp */,
 				A67A08901F9AE74900D0D961 /* 2017秋集训_P34.cpp */,
 				A60F890E1F9F52A7002CAF71 /* 2017秋集训_P36.cpp */,
 				A60F890C1F9F527B002CAF71 /* 2017秋集训_P39.cpp */,
@@ -441,6 +444,7 @@
 				A60F890F1F9F52A7002CAF71 /* 2017秋集训_P36.cpp in Sources */,
 				A627F7E41EF811EE00300B66 /* 1055.cpp in Sources */,
 				A62887F91F1751A000D05910 /* pat-advance-1006.cpp in Sources */,
+				A6C9FC881FC7146A006CA679 /* 2016_蓝桥校选_D.cpp in Sources */,
 				A637EBC61F48117800555D1F /* ccpc-1004.cpp in Sources */,
 				A6B4CC431F45CE7E0064A3B4 /* pat-basic-1037.cpp in Sources */,
 				A69FF23C1FA9C554003D9CC9 /* bupt_DS_1027_C.cpp in Sources */,
