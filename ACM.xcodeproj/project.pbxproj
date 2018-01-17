@@ -54,6 +54,8 @@
 		A661EB7F1F300BDB007E3A6F /* pat-basic-1029.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A661EB7E1F300BDB007E3A6F /* pat-basic-1029.cpp */; };
 		A674139D1FEAB01F00086DF5 /* LQ-PREV-21.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A674139C1FEAB01F00086DF5 /* LQ-PREV-21.cpp */; };
 		A67A08911F9AE74900D0D961 /* 2017秋集训_P34.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A67A08901F9AE74900D0D961 /* 2017秋集训_P34.cpp */; };
+		A67A9B9F200EF9B4008A776C /* GPLT-L1-002.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A67A9B9E200EF9B4008A776C /* GPLT-L1-002.cpp */; };
+		A67A9BA1200EFABE008A776C /* GPLT-L1-003.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A67A9BA0200EFABE008A776C /* GPLT-L1-003.cpp */; };
 		A67B42971F1070BB00E9BA66 /* pat-top-1001.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A67B42961F1070BB00E9BA66 /* pat-top-1001.cpp */; };
 		A67B42991F10A32C00E9BA66 /* pat-advance-1003.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A67B42981F10A32C00E9BA66 /* pat-advance-1003.cpp */; };
 		A67B429B1F10D82000E9BA66 /* pat-advance-1002-2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A67B429A1F10D82000E9BA66 /* pat-advance-1002-2.cpp */; };
@@ -191,6 +193,8 @@
 		A661EB7E1F300BDB007E3A6F /* pat-basic-1029.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1029.cpp"; sourceTree = "<group>"; };
 		A674139C1FEAB01F00086DF5 /* LQ-PREV-21.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "LQ-PREV-21.cpp"; sourceTree = "<group>"; };
 		A67A08901F9AE74900D0D961 /* 2017秋集训_P34.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "2017秋集训_P34.cpp"; sourceTree = "<group>"; };
+		A67A9B9E200EF9B4008A776C /* GPLT-L1-002.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "GPLT-L1-002.cpp"; sourceTree = "<group>"; };
+		A67A9BA0200EFABE008A776C /* GPLT-L1-003.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "GPLT-L1-003.cpp"; sourceTree = "<group>"; };
 		A67B42961F1070BB00E9BA66 /* pat-top-1001.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-top-1001.cpp"; sourceTree = "<group>"; };
 		A67B42981F10A32C00E9BA66 /* pat-advance-1003.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-advance-1003.cpp"; sourceTree = "<group>"; };
 		A67B429A1F10D82000E9BA66 /* pat-advance-1002-2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-advance-1002-2.cpp"; sourceTree = "<group>"; };
@@ -304,6 +308,8 @@
 				A6A2CE061FDAC7A80076EA4F /* BJUT_OJ_1083.cpp */,
 				A62200CF1FCEF0E0003FF67E /* 2016_蓝桥校选_F.cpp */,
 				A674139C1FEAB01F00086DF5 /* LQ-PREV-21.cpp */,
+				A67A9B9E200EF9B4008A776C /* GPLT-L1-002.cpp */,
+				A67A9BA0200EFABE008A776C /* GPLT-L1-003.cpp */,
 				A62200D11FCEF69E003FF67E /* BJUT_OJ_1009.cpp */,
 				A62200D91FCF00D2003FF67E /* BJUT_OJ_1017.cpp */,
 				A6E566A71FD0F79A006D7DD3 /* BJUT_OJ_1004.cpp */,
@@ -482,6 +488,7 @@
 			files = (
 				A6BF0C611F0C97D40083A833 /* pat-basic-1003.cpp in Sources */,
 				A60DA3761F2C83E3002E6C06 /* pat-advance-1007.cpp in Sources */,
+				A67A9B9F200EF9B4008A776C /* GPLT-L1-002.cpp in Sources */,
 				A67B42991F10A32C00E9BA66 /* pat-advance-1003.cpp in Sources */,
 				A6F772FE1F2AD5AD00CB1543 /* pat-basic-1020.cpp in Sources */,
 				A6A004271F4D2A2100B23641 /* pat-basic-1050.cpp in Sources */,
@@ -596,6 +603,7 @@
 				A6B707FA1F15B3BA00B243DE /* pat-basic-1011.cpp in Sources */,
 				A6E566A81FD0F79A006D7DD3 /* BJUT_OJ_1004.cpp in Sources */,
 				A68E80A71F72B4DF00267E6D /* 2017_icpc_qd.cpp in Sources */,
+				A67A9BA1200EFABE008A776C /* GPLT-L1-003.cpp in Sources */,
 				A69FF2341FA9C3C5003D9CC9 /* 2017秋集训_2001.cpp in Sources */,
 				A6AE9FC11F45796F0093FC70 /* pat-basic-1039.cpp in Sources */,
 				A6BF0C481F0B80D40083A833 /* pat-basic-1006.cpp in Sources */,
