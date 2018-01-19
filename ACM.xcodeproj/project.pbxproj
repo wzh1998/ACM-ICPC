@@ -13,6 +13,7 @@
 		A6067CEB1F47118500877548 /* pat-basic-1042.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6067CEA1F47118500877548 /* pat-basic-1042.cpp */; };
 		A6067CED1F471A7600877548 /* pat-basic-1043.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6067CEC1F471A7600877548 /* pat-basic-1043.cpp */; };
 		A60899552011FEA3006B5692 /* POJ_1064.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A60899542011FEA3006B5692 /* POJ_1064.cpp */; };
+		A608995720121A26006B5692 /* POJ_2456.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A608995620121A26006B5692 /* POJ_2456.cpp */; };
 		A60B4C371FB2C6FB00010006 /* POJ_1065.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A60B4C361FB2C6FB00010006 /* POJ_1065.cpp */; };
 		A60B4C391FB3504800010006 /* POJ_2385.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A60B4C381FB3504800010006 /* POJ_2385.cpp */; };
 		A60B4C3B1FB3E4EA00010006 /* POJ_1631.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A60B4C3A1FB3E4EA00010006 /* POJ_1631.cpp */; };
@@ -156,6 +157,7 @@
 		A6067CEA1F47118500877548 /* pat-basic-1042.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1042.cpp"; sourceTree = "<group>"; };
 		A6067CEC1F471A7600877548 /* pat-basic-1043.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1043.cpp"; sourceTree = "<group>"; };
 		A60899542011FEA3006B5692 /* POJ_1064.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = POJ_1064.cpp; sourceTree = "<group>"; };
+		A608995620121A26006B5692 /* POJ_2456.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = POJ_2456.cpp; sourceTree = "<group>"; };
 		A60B4C361FB2C6FB00010006 /* POJ_1065.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = POJ_1065.cpp; sourceTree = "<group>"; };
 		A60B4C381FB3504800010006 /* POJ_2385.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = POJ_2385.cpp; sourceTree = "<group>"; };
 		A60B4C3A1FB3E4EA00010006 /* POJ_1631.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = POJ_1631.cpp; sourceTree = "<group>"; };
@@ -358,6 +360,7 @@
 				A6A828F41F7D6DC3004DA169 /* POJ_3988.cpp */,
 				A6E2A5331FA42719008F9512 /* POJ_3069.cpp */,
 				A69FF2451FAA322B003D9CC9 /* POJ_3040.cpp */,
+				A608995620121A26006B5692 /* POJ_2456.cpp */,
 				A6FE87211FB0881100BEC2BA /* POJ_3176.cpp */,
 				A69FF23D1FA9C5DE003D9CC9 /* POJ_3617.cpp */,
 				A69FF2431FAA0757003D9CC9 /* POJ_2376.cpp */,
@@ -584,6 +587,7 @@
 				A6D423BA1F23065A00BF8219 /* pat-basic-1016.cpp in Sources */,
 				A6B707F81F14D21900B243DE /* pat-basic-1009.cpp in Sources */,
 				A67B42971F1070BB00E9BA66 /* pat-top-1001.cpp in Sources */,
+				A608995720121A26006B5692 /* POJ_2456.cpp in Sources */,
 				A60DA3701F2C20A7002E6C06 /* pat-basic-1023.cpp in Sources */,
 				A6C017751F55A47F000CC3D8 /* Bash Game.cpp in Sources */,
 				A60B4C3B1FB3E4EA00010006 /* POJ_1631.cpp in Sources */,
