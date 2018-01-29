@@ -140,6 +140,7 @@
 		A6F127F6201EAFEA00AB30F2 /* BJUT_OJ_1058.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6F127F5201EAFEA00AB30F2 /* BJUT_OJ_1058.cpp */; };
 		A6F127F8201EB2C300AB30F2 /* BJUT_OJ_1084.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6F127F7201EB2C300AB30F2 /* BJUT_OJ_1084.cpp */; };
 		A6F127FA201EBF8800AB30F2 /* BJUT_OJ_1033.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6F127F9201EBF8800AB30F2 /* BJUT_OJ_1033.cpp */; };
+		A6F127FC201EC40B00AB30F2 /* BJUT_OJ_1016.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6F127FB201EC40B00AB30F2 /* BJUT_OJ_1016.cpp */; };
 		A6F772FE1F2AD5AD00CB1543 /* pat-basic-1020.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6F772FD1F2AD5AD00CB1543 /* pat-basic-1020.cpp */; };
 		A6F773001F2B063F00CB1543 /* pat-basic-1021.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6F772FF1F2B063F00CB1543 /* pat-basic-1021.cpp */; };
 		A6F773021F2B0B6B00CB1543 /* pat-basic-1022.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6F773011F2B0B6B00CB1543 /* pat-basic-1022.cpp */; };
@@ -298,6 +299,7 @@
 		A6F127F5201EAFEA00AB30F2 /* BJUT_OJ_1058.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_1058.cpp; sourceTree = "<group>"; };
 		A6F127F7201EB2C300AB30F2 /* BJUT_OJ_1084.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_1084.cpp; sourceTree = "<group>"; };
 		A6F127F9201EBF8800AB30F2 /* BJUT_OJ_1033.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_1033.cpp; sourceTree = "<group>"; };
+		A6F127FB201EC40B00AB30F2 /* BJUT_OJ_1016.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_1016.cpp; sourceTree = "<group>"; };
 		A6F772FD1F2AD5AD00CB1543 /* pat-basic-1020.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1020.cpp"; sourceTree = "<group>"; };
 		A6F772FF1F2B063F00CB1543 /* pat-basic-1021.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1021.cpp"; sourceTree = "<group>"; };
 		A6F773011F2B0B6B00CB1543 /* pat-basic-1022.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1022.cpp"; sourceTree = "<group>"; };
@@ -351,6 +353,7 @@
 				A67A7C122015F63800810BC7 /* BJUT_OJ_1024.cpp */,
 				A67A7C142016100F00810BC7 /* BJUT_OJ_1032.cpp */,
 				A6F127F9201EBF8800AB30F2 /* BJUT_OJ_1033.cpp */,
+				A6F127FB201EC40B00AB30F2 /* BJUT_OJ_1016.cpp */,
 				A6D1BDDF201818D600E32915 /* BJUT_OJ_1030.cpp */,
 				A6F127F5201EAFEA00AB30F2 /* BJUT_OJ_1058.cpp */,
 				A6F127F7201EB2C300AB30F2 /* BJUT_OJ_1084.cpp */,
@@ -597,6 +600,7 @@
 				A62887F71F173C1000D05910 /* pat-advance-1005.cpp in Sources */,
 				A6B3F9141FD5339D002923B3 /* BJUT_OJ_1087.cpp in Sources */,
 				A60DA3721F2C20B7002E6C06 /* pat-basic-1024.cpp in Sources */,
+				A6F127FC201EC40B00AB30F2 /* BJUT_OJ_1016.cpp in Sources */,
 				A62200D61FCEFDF9003FF67E /* BJUT_OJ_1042.cpp in Sources */,
 				A6E2A5341FA42719008F9512 /* POJ_3069.cpp in Sources */,
 				A6D423BC1F231E9800BF8219 /* pat-basic-1018.cpp in Sources */,
