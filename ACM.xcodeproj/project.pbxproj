@@ -145,6 +145,8 @@
 		A6F772FE1F2AD5AD00CB1543 /* pat-basic-1020.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6F772FD1F2AD5AD00CB1543 /* pat-basic-1020.cpp */; };
 		A6F773001F2B063F00CB1543 /* pat-basic-1021.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6F772FF1F2B063F00CB1543 /* pat-basic-1021.cpp */; };
 		A6F773021F2B0B6B00CB1543 /* pat-basic-1022.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6F773011F2B0B6B00CB1543 /* pat-basic-1022.cpp */; };
+		A6F855EF202019BA006238D2 /* BJUT_OJ_1059.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6F855EE202019BA006238D2 /* BJUT_OJ_1059.cpp */; };
+		A6F855F12020284B006238D2 /* BJUT_OJ_1062.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6F855F02020284B006238D2 /* BJUT_OJ_1062.cpp */; };
 		A6F98D4D1F56FA8600DA7698 /* pat-basic-1057.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6F98D4C1F56FA8500DA7698 /* pat-basic-1057.cpp */; };
 		A6FBEBB220148BA200F55A5B /* BJUT_OJ_1022.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6FBEBB120148BA200F55A5B /* BJUT_OJ_1022.cpp */; };
 		A6FE87221FB0881100BEC2BA /* POJ_3176.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6FE87211FB0881100BEC2BA /* POJ_3176.cpp */; };
@@ -305,6 +307,8 @@
 		A6F772FD1F2AD5AD00CB1543 /* pat-basic-1020.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1020.cpp"; sourceTree = "<group>"; };
 		A6F772FF1F2B063F00CB1543 /* pat-basic-1021.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1021.cpp"; sourceTree = "<group>"; };
 		A6F773011F2B0B6B00CB1543 /* pat-basic-1022.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1022.cpp"; sourceTree = "<group>"; };
+		A6F855EE202019BA006238D2 /* BJUT_OJ_1059.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_1059.cpp; sourceTree = "<group>"; };
+		A6F855F02020284B006238D2 /* BJUT_OJ_1062.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_1062.cpp; sourceTree = "<group>"; };
 		A6F98D4C1F56FA8500DA7698 /* pat-basic-1057.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1057.cpp"; sourceTree = "<group>"; };
 		A6FBEBB120148BA200F55A5B /* BJUT_OJ_1022.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_1022.cpp; sourceTree = "<group>"; };
 		A6FE87211FB0881100BEC2BA /* POJ_3176.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = POJ_3176.cpp; sourceTree = "<group>"; };
@@ -358,6 +362,8 @@
 				A6F127FB201EC40B00AB30F2 /* BJUT_OJ_1016.cpp */,
 				A6D1BDDF201818D600E32915 /* BJUT_OJ_1030.cpp */,
 				A6F127F5201EAFEA00AB30F2 /* BJUT_OJ_1058.cpp */,
+				A6F855EE202019BA006238D2 /* BJUT_OJ_1059.cpp */,
+				A6F855F02020284B006238D2 /* BJUT_OJ_1062.cpp */,
 				A6F127FD201ECD9A00AB30F2 /* BJUT_OJ_1078.cpp */,
 				A6F127F7201EB2C300AB30F2 /* BJUT_OJ_1084.cpp */,
 				A6CE48002015B73A004DE045 /* BJUT_OJ_1044.cpp */,
@@ -577,6 +583,7 @@
 				A6B4A07A1F794E5300FA14A4 /* pat-basic-1067.cpp in Sources */,
 				A6A2CE0B1FDACDF90076EA4F /* BJUT_OJ_1090.cpp in Sources */,
 				A64255E21F35966000C9DA60 /* pat-advance-1015.cpp in Sources */,
+				A6F855EF202019BA006238D2 /* BJUT_OJ_1059.cpp in Sources */,
 				A62200D81FCEFF90003FF67E /* BJUT_OJ_1019.cpp in Sources */,
 				A68372C61F64EDF8006A8BDC /* 17_icpc_XJ_数论.cpp in Sources */,
 				A6AE9FBF1F456C280093FC70 /* pat-basic-1038.cpp in Sources */,
@@ -618,6 +625,7 @@
 				A60F89111F9F5A0B002CAF71 /* 2017秋集训_P41.cpp in Sources */,
 				A661BD3C1FC5BA4400D9A398 /* 2016_蓝桥校选_B.cpp in Sources */,
 				A6580EBA1F2898BB00DE9D7B /* pat-basic-1019.cpp in Sources */,
+				A6F855F12020284B006238D2 /* BJUT_OJ_1062.cpp in Sources */,
 				A6D423B61F22F8BE00BF8219 /* pat-basic-1013.cpp in Sources */,
 				A6FE87241FB09AB400BEC2BA /* POJ_1742.cpp in Sources */,
 				A60F890D1F9F527B002CAF71 /* 2017秋集训_P39.cpp in Sources */,
