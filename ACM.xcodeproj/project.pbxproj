@@ -96,6 +96,7 @@
 		A6A2CE051FDAB8A30076EA4F /* BJUT_OJ_1094.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6A2CE041FDAB8A30076EA4F /* BJUT_OJ_1094.cpp */; };
 		A6A2CE071FDAC7A80076EA4F /* BJUT_OJ_1083.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6A2CE061FDAC7A80076EA4F /* BJUT_OJ_1083.cpp */; };
 		A6A2CE0B1FDACDF90076EA4F /* BJUT_OJ_1090.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6A2CE0A1FDACDF90076EA4F /* BJUT_OJ_1090.cpp */; };
+		A6A3DA2F204837DE00215C31 /* BJUT_OJ_lq17F.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6A3DA2E204837DE00215C31 /* BJUT_OJ_lq17F.cpp */; };
 		A6A828F31F7CD145004DA169 /* bjut_oj_新生赛.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6A828F21F7CD145004DA169 /* bjut_oj_新生赛.cpp */; };
 		A6A828F51F7D6DC3004DA169 /* POJ_3988.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6A828F41F7D6DC3004DA169 /* POJ_3988.cpp */; };
 		A6AE9FBD1F456AD30093FC70 /* 百度之星A1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6AE9FBC1F456AD30093FC70 /* 百度之星A1.cpp */; };
@@ -262,6 +263,7 @@
 		A6A2CE041FDAB8A30076EA4F /* BJUT_OJ_1094.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_1094.cpp; sourceTree = "<group>"; };
 		A6A2CE061FDAC7A80076EA4F /* BJUT_OJ_1083.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_1083.cpp; sourceTree = "<group>"; };
 		A6A2CE0A1FDACDF90076EA4F /* BJUT_OJ_1090.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_1090.cpp; sourceTree = "<group>"; };
+		A6A3DA2E204837DE00215C31 /* BJUT_OJ_lq17F.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_lq17F.cpp; sourceTree = "<group>"; };
 		A6A828F21F7CD145004DA169 /* bjut_oj_新生赛.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "bjut_oj_新生赛.cpp"; sourceTree = "<group>"; };
 		A6A828F41F7D6DC3004DA169 /* POJ_3988.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = POJ_3988.cpp; sourceTree = "<group>"; };
 		A6AE9FBC1F456AD30093FC70 /* 百度之星A1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "百度之星A1.cpp"; sourceTree = "<group>"; };
@@ -379,6 +381,7 @@
 				A6F127F7201EB2C300AB30F2 /* BJUT_OJ_1084.cpp */,
 				A6CE48002015B73A004DE045 /* BJUT_OJ_1044.cpp */,
 				A656672C2021FC31003FC9DF /* BJUT_OJ_1100.cpp */,
+				A6A3DA2E204837DE00215C31 /* BJUT_OJ_lq17F.cpp */,
 				A62200CF1FCEF0E0003FF67E /* 2016_蓝桥校选_F.cpp */,
 				A674139C1FEAB01F00086DF5 /* LQ-PREV-21.cpp */,
 				A67A9B9E200EF9B4008A776C /* GPLT-L1-002.cpp */,
@@ -586,6 +589,7 @@
 				A627F7E41EF811EE00300B66 /* 1055.cpp in Sources */,
 				A60899552011FEA3006B5692 /* POJ_1064.cpp in Sources */,
 				A62887F91F1751A000D05910 /* pat-advance-1006.cpp in Sources */,
+				A6A3DA2F204837DE00215C31 /* BJUT_OJ_lq17F.cpp in Sources */,
 				A6C9FC881FC7146A006CA679 /* 2016_蓝桥校选_D.cpp in Sources */,
 				A637EBC61F48117800555D1F /* ccpc-1004.cpp in Sources */,
 				A6B4CC431F45CE7E0064A3B4 /* pat-basic-1037.cpp in Sources */,
