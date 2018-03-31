@@ -74,6 +74,8 @@
 		A6779EA8206BEE6A0095A6CE /* LQ_封印之门.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6779EA7206BEE6A0095A6CE /* LQ_封印之门.cpp */; };
 		A6779EAA206C939E0095A6CE /* LQ_天上的星星.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6779EA9206C939E0095A6CE /* LQ_天上的星星.cpp */; };
 		A6779EAC206D0D160095A6CE /* LQ_划分整数.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6779EAB206D0D160095A6CE /* LQ_划分整数.cpp */; };
+		A6779EAE206D1C6B0095A6CE /* LQ_01背包.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6779EAD206D1C6B0095A6CE /* LQ_01背包.cpp */; };
+		A6779EB0206D26E60095A6CE /* LQ_完全背包.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6779EAF206D26E60095A6CE /* LQ_完全背包.cpp */; };
 		A67978042010D91F00CAA95A /* pat-basic-1060.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A67978032010D91F00CAA95A /* pat-basic-1060.cpp */; };
 		A67A08911F9AE74900D0D961 /* 2017秋集训_P34.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A67A08901F9AE74900D0D961 /* 2017秋集训_P34.cpp */; };
 		A67A7C132015F63800810BC7 /* BJUT_OJ_1024.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A67A7C122015F63800810BC7 /* BJUT_OJ_1024.cpp */; };
@@ -117,6 +119,9 @@
 		A6AE9FBF1F456C280093FC70 /* pat-basic-1038.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6AE9FBE1F456C280093FC70 /* pat-basic-1038.cpp */; };
 		A6AE9FC11F45796F0093FC70 /* pat-basic-1039.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6AE9FC01F45796F0093FC70 /* pat-basic-1039.cpp */; };
 		A6AFD94A1F342D0100E3DCFE /* pat-basic-1027.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6AFD9491F342D0100E3DCFE /* pat-basic-1027.cpp */; };
+		A6B1BD7C206F4416009D695C /* LQ_二分搜索.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6B1BD7B206F4416009D695C /* LQ_二分搜索.cpp */; };
+		A6B1BD7E206F55DC009D695C /* LQ_17_正则.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6B1BD7D206F55DC009D695C /* LQ_17_正则.cpp */; };
+		A6B1BD80206F5F21009D695C /* LQ_16_6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6B1BD7F206F5F21009D695C /* LQ_16_6.cpp */; };
 		A6B2217B1F18EE84006B24F7 /* pat-basic-1010.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6B2217A1F18EE84006B24F7 /* pat-basic-1010.cpp */; };
 		A6B3F9141FD5339D002923B3 /* BJUT_OJ_1087.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6B3F9121FD5339D002923B3 /* BJUT_OJ_1087.cpp */; };
 		A6B3F9161FD533EC002923B3 /* BJUT_OJ_1091.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6B3F9151FD533EC002923B3 /* BJUT_OJ_1091.cpp */; };
@@ -256,6 +261,8 @@
 		A6779EA7206BEE6A0095A6CE /* LQ_封印之门.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "LQ_封印之门.cpp"; sourceTree = "<group>"; };
 		A6779EA9206C939E0095A6CE /* LQ_天上的星星.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "LQ_天上的星星.cpp"; sourceTree = "<group>"; };
 		A6779EAB206D0D160095A6CE /* LQ_划分整数.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "LQ_划分整数.cpp"; sourceTree = "<group>"; };
+		A6779EAD206D1C6B0095A6CE /* LQ_01背包.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "LQ_01背包.cpp"; sourceTree = "<group>"; };
+		A6779EAF206D26E60095A6CE /* LQ_完全背包.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "LQ_完全背包.cpp"; sourceTree = "<group>"; };
 		A67978032010D91F00CAA95A /* pat-basic-1060.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1060.cpp"; sourceTree = "<group>"; };
 		A67A08901F9AE74900D0D961 /* 2017秋集训_P34.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "2017秋集训_P34.cpp"; sourceTree = "<group>"; };
 		A67A7C122015F63800810BC7 /* BJUT_OJ_1024.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_1024.cpp; sourceTree = "<group>"; };
@@ -299,6 +306,9 @@
 		A6AE9FBE1F456C280093FC70 /* pat-basic-1038.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1038.cpp"; sourceTree = "<group>"; };
 		A6AE9FC01F45796F0093FC70 /* pat-basic-1039.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1039.cpp"; sourceTree = "<group>"; };
 		A6AFD9491F342D0100E3DCFE /* pat-basic-1027.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1027.cpp"; sourceTree = "<group>"; };
+		A6B1BD7B206F4416009D695C /* LQ_二分搜索.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "LQ_二分搜索.cpp"; sourceTree = "<group>"; };
+		A6B1BD7D206F55DC009D695C /* LQ_17_正则.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "LQ_17_正则.cpp"; sourceTree = "<group>"; };
+		A6B1BD7F206F5F21009D695C /* LQ_16_6.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LQ_16_6.cpp; sourceTree = "<group>"; };
 		A6B2217A1F18EE84006B24F7 /* pat-basic-1010.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1010.cpp"; sourceTree = "<group>"; };
 		A6B3F9121FD5339D002923B3 /* BJUT_OJ_1087.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_1087.cpp; sourceTree = "<group>"; };
 		A6B3F9151FD533EC002923B3 /* BJUT_OJ_1091.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_1091.cpp; sourceTree = "<group>"; };
@@ -419,6 +429,11 @@
 				A6779EA7206BEE6A0095A6CE /* LQ_封印之门.cpp */,
 				A6779EA9206C939E0095A6CE /* LQ_天上的星星.cpp */,
 				A6779EAB206D0D160095A6CE /* LQ_划分整数.cpp */,
+				A6779EAD206D1C6B0095A6CE /* LQ_01背包.cpp */,
+				A6779EAF206D26E60095A6CE /* LQ_完全背包.cpp */,
+				A6B1BD7B206F4416009D695C /* LQ_二分搜索.cpp */,
+				A6B1BD7D206F55DC009D695C /* LQ_17_正则.cpp */,
+				A6B1BD7F206F5F21009D695C /* LQ_16_6.cpp */,
 				A62200CF1FCEF0E0003FF67E /* 2016_蓝桥校选_F.cpp */,
 				A674139C1FEAB01F00086DF5 /* LQ-PREV-21.cpp */,
 				A684A32420627C0500098565 /* JSK_得克萨斯长角牛.cpp */,
@@ -617,6 +632,7 @@
 			files = (
 				A6BF0C611F0C97D40083A833 /* pat-basic-1003.cpp in Sources */,
 				A66A33F72013005E00A918EB /* POJ_3061.cpp in Sources */,
+				A6B1BD7E206F55DC009D695C /* LQ_17_正则.cpp in Sources */,
 				A60DA3761F2C83E3002E6C06 /* pat-advance-1007.cpp in Sources */,
 				A67A9B9F200EF9B4008A776C /* GPLT-L1-002.cpp in Sources */,
 				A67B42991F10A32C00E9BA66 /* pat-advance-1003.cpp in Sources */,
@@ -644,6 +660,7 @@
 				A627F7E61EF92AEB00300B66 /* 1056.cpp in Sources */,
 				A6B4A07A1F794E5300FA14A4 /* pat-basic-1067.cpp in Sources */,
 				A6A2CE0B1FDACDF90076EA4F /* BJUT_OJ_1090.cpp in Sources */,
+				A6779EB0206D26E60095A6CE /* LQ_完全背包.cpp in Sources */,
 				A64255E21F35966000C9DA60 /* pat-advance-1015.cpp in Sources */,
 				A62E2289204D3E2C0021489E /* POJ_3320.cpp in Sources */,
 				A6F855EF202019BA006238D2 /* BJUT_OJ_1059.cpp in Sources */,
@@ -658,6 +675,7 @@
 				A6779EA8206BEE6A0095A6CE /* LQ_封印之门.cpp in Sources */,
 				A6067CE91F46FE7600877548 /* pat-basic-1041.cpp in Sources */,
 				A6504A311FC3EFBA00726952 /* 2016_蓝桥校选_A.cpp in Sources */,
+				A6779EAE206D1C6B0095A6CE /* LQ_01背包.cpp in Sources */,
 				A68772FA205AB1FD00A28AA4 /* LQ_补全等式.cpp in Sources */,
 				A6CFAFDA1F1A152300BFBBD3 /* pat-top-1002.cpp in Sources */,
 				A629BEE61FD24CA50014833B /* BJUT_OJ_1042.cpp in Sources */,
@@ -731,6 +749,7 @@
 				A66A33F52012E89B00A918EB /* pat-basic-1064.cpp in Sources */,
 				A6FBC2DF20610BC400298675 /* LQ_礼物盒.cpp in Sources */,
 				A687F6DF1F5FBB0800D943F7 /* 2017_ICPC_GuangXi_01.cpp in Sources */,
+				A6B1BD80206F5F21009D695C /* LQ_16_6.cpp in Sources */,
 				A6734F572011DB7A00E881A2 /* pat-basic-1076.cpp in Sources */,
 				A6AE9FBD1F456AD30093FC70 /* 百度之星A1.cpp in Sources */,
 				A687F6E31F639E4100D943F7 /* 17_icpc_XJ_01.cpp in Sources */,
@@ -770,6 +789,7 @@
 				A6B707FA1F15B3BA00B243DE /* pat-basic-1011.cpp in Sources */,
 				A66A33FD2013876E00A918EB /* BJUT_OJ_1095.cpp in Sources */,
 				A6E566A81FD0F79A006D7DD3 /* BJUT_OJ_1004.cpp in Sources */,
+				A6B1BD7C206F4416009D695C /* LQ_二分搜索.cpp in Sources */,
 				A68E80A71F72B4DF00267E6D /* 2017_icpc_qd.cpp in Sources */,
 				A6734F592011E7DC00E881A2 /* pat-basic-1078.cpp in Sources */,
 				A67A9BA1200EFABE008A776C /* GPLT-L1-003.cpp in Sources */,
