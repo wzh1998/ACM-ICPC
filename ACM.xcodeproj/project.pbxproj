@@ -92,6 +92,7 @@
 		A68772FA205AB1FD00A28AA4 /* LQ_补全等式.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A68772F9205AB1FD00A28AA4 /* LQ_补全等式.cpp */; };
 		A68772FC205AB2B900A28AA4 /* LQ_九宫格.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A68772FB205AB2B900A28AA4 /* LQ_九宫格.cpp */; };
 		A68772FE205AB94800A28AA4 /* LQ_成绩查询系统.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A68772FD205AB94800A28AA4 /* LQ_成绩查询系统.cpp */; };
+		A6879AF0206FC379000DF00A /* LQ_最大化平均值.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6879AEF206FC379000DF00A /* LQ_最大化平均值.cpp */; };
 		A687F6DF1F5FBB0800D943F7 /* 2017_ICPC_GuangXi_01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A687F6DE1F5FBB0800D943F7 /* 2017_ICPC_GuangXi_01.cpp */; };
 		A687F6E11F6175A900D943F7 /* 2015_ICPC_ShenYang_04.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A687F6E01F6175A900D943F7 /* 2015_ICPC_ShenYang_04.cpp */; };
 		A687F6E31F639E4100D943F7 /* 17_icpc_XJ_01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A687F6E21F639E4100D943F7 /* 17_icpc_XJ_01.cpp */; };
@@ -279,6 +280,7 @@
 		A68772F9205AB1FD00A28AA4 /* LQ_补全等式.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "LQ_补全等式.cpp"; sourceTree = "<group>"; };
 		A68772FB205AB2B900A28AA4 /* LQ_九宫格.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "LQ_九宫格.cpp"; sourceTree = "<group>"; };
 		A68772FD205AB94800A28AA4 /* LQ_成绩查询系统.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "LQ_成绩查询系统.cpp"; sourceTree = "<group>"; };
+		A6879AEF206FC379000DF00A /* LQ_最大化平均值.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "LQ_最大化平均值.cpp"; sourceTree = "<group>"; };
 		A687F6DE1F5FBB0800D943F7 /* 2017_ICPC_GuangXi_01.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2017_ICPC_GuangXi_01.cpp; sourceTree = "<group>"; };
 		A687F6E01F6175A900D943F7 /* 2015_ICPC_ShenYang_04.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2015_ICPC_ShenYang_04.cpp; sourceTree = "<group>"; };
 		A687F6E21F639E4100D943F7 /* 17_icpc_XJ_01.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 17_icpc_XJ_01.cpp; sourceTree = "<group>"; };
@@ -434,6 +436,7 @@
 				A6B1BD7B206F4416009D695C /* LQ_二分搜索.cpp */,
 				A6B1BD7D206F55DC009D695C /* LQ_17_正则.cpp */,
 				A6B1BD7F206F5F21009D695C /* LQ_16_6.cpp */,
+				A6879AEF206FC379000DF00A /* LQ_最大化平均值.cpp */,
 				A62200CF1FCEF0E0003FF67E /* 2016_蓝桥校选_F.cpp */,
 				A674139C1FEAB01F00086DF5 /* LQ-PREV-21.cpp */,
 				A684A32420627C0500098565 /* JSK_得克萨斯长角牛.cpp */,
@@ -695,6 +698,7 @@
 				A68372C81F6507CD006A8BDC /* 2017_icpc_SY_04.cpp in Sources */,
 				A60B4C371FB2C6FB00010006 /* POJ_1065.cpp in Sources */,
 				A62887F71F173C1000D05910 /* pat-advance-1005.cpp in Sources */,
+				A6879AF0206FC379000DF00A /* LQ_最大化平均值.cpp in Sources */,
 				A6B3F9141FD5339D002923B3 /* BJUT_OJ_1087.cpp in Sources */,
 				A60DA3721F2C20B7002E6C06 /* pat-basic-1024.cpp in Sources */,
 				A6F127FC201EC40B00AB30F2 /* BJUT_OJ_1016.cpp in Sources */,
