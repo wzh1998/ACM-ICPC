@@ -34,9 +34,7 @@ int main(void){
         cin >> myCourse[i].start;
         cin >> myCourse[i].end;
     }
-    //    for(int j = 0;j < n;j++){
-    //        cin >> myCourse[j].end;
-    //    }
+
     sort(&myCourse[0], &myCourse[n], compare);
     int result = 0;
     int c_start = 0;

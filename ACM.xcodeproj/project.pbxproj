@@ -29,6 +29,8 @@
 		A6135C811FB56CC400559A52 /* bupt_DS_1110_A.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A6135C801FB56CC400559A52 /* bupt_DS_1110_A.cpp */; };
 		A61670161F80D5560038D05E /* POJ_3820.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A61670151F80D5560038D05E /* POJ_3820.cpp */; };
 		A61670181F8137E90038D05E /* POJ_3766.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A61670171F8137E90038D05E /* POJ_3766.cpp */; };
+		A61BA29920858D4200E51894 /* BJUT_OJ_181B.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A61BA29820858D4200E51894 /* BJUT_OJ_181B.cpp */; };
+		A61BA29B20858D8200E51894 /* BJUT_OJ_181D.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A61BA29A20858D8200E51894 /* BJUT_OJ_181D.cpp */; };
 		A61DFA571F2ED88B00EF8986 /* pat-basic-1026.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A61DFA561F2ED88B00EF8986 /* pat-basic-1026.cpp */; };
 		A61EFE211F4C466F000BE258 /* pat-basic-1049.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A61EFE201F4C466F000BE258 /* pat-basic-1049.cpp */; };
 		A62200D01FCEF0E0003FF67E /* 2016_蓝桥校选_F.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A62200CF1FCEF0E0003FF67E /* 2016_蓝桥校选_F.cpp */; };
@@ -98,6 +100,7 @@
 		A687F6E31F639E4100D943F7 /* 17_icpc_XJ_01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A687F6E21F639E4100D943F7 /* 17_icpc_XJ_01.cpp */; };
 		A68E2ADC1FB68A4900C3AB75 /* POJ_2533.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A68E2ADB1FB68A4900C3AB75 /* POJ_2533.cpp */; };
 		A68E80A71F72B4DF00267E6D /* 2017_icpc_qd.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A68E80A61F72B4DF00267E6D /* 2017_icpc_qd.cpp */; };
+		A694F920207CC85D0069C92F /* CF_961B.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A694F91F207CC85D0069C92F /* CF_961B.cpp */; };
 		A69A266E1F347427001339DF /* pat-basic-1030.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A69A266D1F347427001339DF /* pat-basic-1030.cpp */; };
 		A69A72DD1FAB663200612054 /* 2017秋集训_P51.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A69A72DC1FAB663200612054 /* 2017秋集训_P51.cpp */; };
 		A69FF2341FA9C3C5003D9CC9 /* 2017秋集训_2001.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A69FF2331FA9C3C5003D9CC9 /* 2017秋集训_2001.cpp */; };
@@ -216,6 +219,8 @@
 		A6135C801FB56CC400559A52 /* bupt_DS_1110_A.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = bupt_DS_1110_A.cpp; sourceTree = "<group>"; };
 		A61670151F80D5560038D05E /* POJ_3820.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = POJ_3820.cpp; sourceTree = "<group>"; };
 		A61670171F8137E90038D05E /* POJ_3766.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = POJ_3766.cpp; sourceTree = "<group>"; };
+		A61BA29820858D4200E51894 /* BJUT_OJ_181B.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_181B.cpp; sourceTree = "<group>"; };
+		A61BA29A20858D8200E51894 /* BJUT_OJ_181D.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BJUT_OJ_181D.cpp; sourceTree = "<group>"; };
 		A61DFA561F2ED88B00EF8986 /* pat-basic-1026.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1026.cpp"; sourceTree = "<group>"; };
 		A61EFE201F4C466F000BE258 /* pat-basic-1049.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1049.cpp"; sourceTree = "<group>"; };
 		A62200CF1FCEF0E0003FF67E /* 2016_蓝桥校选_F.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "2016_蓝桥校选_F.cpp"; sourceTree = "<group>"; };
@@ -286,6 +291,7 @@
 		A687F6E21F639E4100D943F7 /* 17_icpc_XJ_01.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 17_icpc_XJ_01.cpp; sourceTree = "<group>"; };
 		A68E2ADB1FB68A4900C3AB75 /* POJ_2533.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = POJ_2533.cpp; sourceTree = "<group>"; };
 		A68E80A61F72B4DF00267E6D /* 2017_icpc_qd.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2017_icpc_qd.cpp; sourceTree = "<group>"; };
+		A694F91F207CC85D0069C92F /* CF_961B.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CF_961B.cpp; sourceTree = "<group>"; };
 		A69A266D1F347427001339DF /* pat-basic-1030.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "pat-basic-1030.cpp"; sourceTree = "<group>"; };
 		A69A72DC1FAB663200612054 /* 2017秋集训_P51.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "2017秋集训_P51.cpp"; sourceTree = "<group>"; };
 		A69FF2331FA9C3C5003D9CC9 /* 2017秋集训_2001.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "2017秋集训_2001.cpp"; sourceTree = "<group>"; };
@@ -400,6 +406,7 @@
 			isa = PBXGroup;
 			children = (
 				A6504A301FC3EFBA00726952 /* 2016_蓝桥校选_A.cpp */,
+				A694F91F207CC85D0069C92F /* CF_961B.cpp */,
 				A661BD3B1FC5BA4400D9A398 /* 2016_蓝桥校选_B.cpp */,
 				A6C9FC871FC7146A006CA679 /* 2016_蓝桥校选_D.cpp */,
 				A66A33F8201311E800A918EB /* BJUT_OJ_1001.cpp */,
@@ -424,6 +431,8 @@
 				A6CE48002015B73A004DE045 /* BJUT_OJ_1044.cpp */,
 				A656672C2021FC31003FC9DF /* BJUT_OJ_1100.cpp */,
 				A6A3DA2E204837DE00215C31 /* BJUT_OJ_lq17F.cpp */,
+				A61BA29820858D4200E51894 /* BJUT_OJ_181B.cpp */,
+				A61BA29A20858D8200E51894 /* BJUT_OJ_181D.cpp */,
 				A68772F9205AB1FD00A28AA4 /* LQ_补全等式.cpp */,
 				A68772FB205AB2B900A28AA4 /* LQ_九宫格.cpp */,
 				A68772FD205AB94800A28AA4 /* LQ_成绩查询系统.cpp */,
@@ -676,6 +685,7 @@
 				A6B4A0781F792FFF00FA14A4 /* 2017_icpc_nanning_3.cpp in Sources */,
 				A611731E205161F30047C129 /* BJUT_OJ_1008.cpp in Sources */,
 				A6779EA8206BEE6A0095A6CE /* LQ_封印之门.cpp in Sources */,
+				A61BA29B20858D8200E51894 /* BJUT_OJ_181D.cpp in Sources */,
 				A6067CE91F46FE7600877548 /* pat-basic-1041.cpp in Sources */,
 				A6504A311FC3EFBA00726952 /* 2016_蓝桥校选_A.cpp in Sources */,
 				A6779EAE206D1C6B0095A6CE /* LQ_01背包.cpp in Sources */,
@@ -752,6 +762,7 @@
 				A6B4A0761F792FCC00FA14A4 /* 2017_icpc_naning_1.cpp in Sources */,
 				A66A33F52012E89B00A918EB /* pat-basic-1064.cpp in Sources */,
 				A6FBC2DF20610BC400298675 /* LQ_礼物盒.cpp in Sources */,
+				A694F920207CC85D0069C92F /* CF_961B.cpp in Sources */,
 				A687F6DF1F5FBB0800D943F7 /* 2017_ICPC_GuangXi_01.cpp in Sources */,
 				A6B1BD80206F5F21009D695C /* LQ_16_6.cpp in Sources */,
 				A6734F572011DB7A00E881A2 /* pat-basic-1076.cpp in Sources */,
@@ -787,6 +798,7 @@
 				A6BF0C3F1F09EC290083A833 /* pat-basic-1004.cpp in Sources */,
 				A684D09F1F0DD33D00BC13F0 /* pat-basic-1005.cpp in Sources */,
 				A60DA3741F2C4559002E6C06 /* pat-advance-1011.cpp in Sources */,
+				A61BA29920858D4200E51894 /* BJUT_OJ_181B.cpp in Sources */,
 				A6ED133C1F41C23000C0026B /* pat-basic-1033.cpp in Sources */,
 				A6FF2D8820104FF80069CCF6 /* LQ-2017-B-04.cpp in Sources */,
 				A6F773001F2B063F00CB1543 /* pat-basic-1021.cpp in Sources */,
