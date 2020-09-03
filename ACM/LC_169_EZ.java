@@ -4,8 +4,29 @@
 * @Website: www.wangzihao.org
 * @Date:    2020-09-02 20:21:25
 * @Last Modified by:   zihaowang
-* @Last Modified time: 2020-09-02 20:58:59
+* @Last Modified time: 2020-09-03 10:07:52
 */
+
+// * Boyer Moore majority voting algorithm
+// O(n) time, O(1) space
+class Solution {
+    public int majorityElement(int[] nums) {
+        int majorElement = nums[0];
+        int count = 0;
+        
+        for(int i = 0; i < nums.length; i++) {
+            if(count == 0) majorElement = nums[i];
+            if(nums[i] == majorElement) count++;
+            else count--;
+        }
+        
+        // need a double check if the major element is not
+        // guaranteed to be shown in the array.
+        
+        return majorElement;
+    }
+}
+
 
 // * Recursion
 class Solution {
