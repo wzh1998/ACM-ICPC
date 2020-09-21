@@ -4,7 +4,7 @@
 * @Website: www.wangzihao.org
 * @Date:    2020-09-21 23:39:41
 * @Last Modified by:   zihaowang
-* @Last Modified time: 2020-09-21 23:39:44
+* @Last Modified time: 2020-09-21 23:48:20
 */
 class Solution {
     public boolean isValid(String s) {
@@ -22,6 +22,6 @@ class Solution {
                 return false;
             }
         }
-        return (index==1) ? true : false;
+        return index==1;
     }
 }
