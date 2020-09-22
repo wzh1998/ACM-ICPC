@@ -4,24 +4,10 @@
 * @Website: www.wangzihao.org
 * @Date:    2020-09-22 17:28:46
 * @Last Modified by:   zihaowang
-* @Last Modified time: 2020-09-22 17:28:52
+* @Last Modified time: 2020-09-22 19:35:06
 */
 
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+// Iterasive solution
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
 		List<Integer> list = new ArrayList<> ();
@@ -38,5 +24,22 @@ class Solution {
 			list.add(current.val);
 			current = current.right;
 		}
+    }
+}
+
+// Recursive solution
+class Solution {
+    List<Integer> result = new ArrayList<> ();
+	
+	public void traversal(TreeNode root) {
+		if(root == null) return;
+		traversal(root.left);
+		result.add(root.val);
+		traversal(root.right);
+	}
+	
+	public List<Integer> inorderTraversal(TreeNode root) {
+		traversal(root);
+		return result;
     }
 }
