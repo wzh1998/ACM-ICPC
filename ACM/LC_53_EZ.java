@@ -4,8 +4,27 @@
 * @Website: www.wangzihao.org
 * @Date:    2020-09-02 17:53:30
 * @Last Modified by:   zihaowang
-* @Last Modified time: 2020-09-02 20:21:15
+* @Last Modified time: 2020-12-30 00:28:50
 */
+
+// Modified
+class Solution {
+    public int maxSubArray(int[] nums) {
+        int result = nums[0];
+        int currentMax = nums[0];
+                
+        for(int i = 1; i < nums.length; i++) {
+                if(currentMax + nums[i] > nums[i]) 
+                        currentMax += nums[i];
+                else 
+                        currentMax = nums[i];
+                
+                result = Math.max(result, currentMax);
+        }
+        
+        return result;
+    }
+}
 
 // DP
 public int maxSubArray(int[] nums) {
