@@ -4,7 +4,7 @@
 * @Website: www.wangzihao.org
 * @Date:    2020-08-31 20:49:50
 * @Last Modified by:   zihaowang
-* @Last Modified time: 2020-08-31 21:25:16
+* @Last Modified time: 2020-12-30 23:53:22
 */
 
 /**
@@ -17,6 +17,23 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+// 20.12 Update a more understandable solution
+public ListNode reverseList(ListNode head) {
+        
+        ListNode currentNode = head;
+        ListNode nextNode = null;
+        ListNode prevNode = null;
+        
+        while(currentNode != null) {
+            nextNode = currentNode.next;
+            currentNode.next = prevNode;
+            prevNode = currentNode;
+            currentNode = nextNode;
+        }
+        
+        return prevNode;
+}
 
 // Iterative
 class Solution {
