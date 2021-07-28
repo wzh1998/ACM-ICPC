@@ -4,27 +4,25 @@
 * @Website: www.wangzihao.org
 * @Date:    2020-08-07 23:37:27
 * @Last Modified by:   zihaowang
-* @Last Modified time: 2020-08-07 23:37:30
+* @Last Modified time: 2021-07-23 17:18:31
 */
 
 class Solution {
     public int[] productExceptSelf(int[] nums) {
+        int len = nums.length;
+        int[] results = new int[len];
+        int right = 1;
         
-        int right = nums[nums.length-1];
-        int[] result = new int[nums.length];
+        results[0] = 1;
         
-        if(nums.length == 0) return nums;
+        for(int i = 1; i < len; i++) 
+            results[i] = results[i - 1] * nums[i - 1];
         
-        result[0] = 1;
-        for(int i = 1; i < nums.length; i++) {
-            result[i] = result[i-1] * nums[i-1];
-        }
-        
-        for(int i = nums.length - 2; i >= 0; i--) {
-            result[i] *= right;
+        for(int i = len - 1; i >= 0; i--) {
+            results[i] *= right;
             right *= nums[i];
         }
         
-        return result;
+        return results;
     }
 }
