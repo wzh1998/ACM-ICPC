@@ -4,8 +4,38 @@
 * @Website: www.wangzihao.org
 * @Date:    2020-08-17 20:08:02
 * @Last Modified by:   zihaowang
-* @Last Modified time: 2020-08-17 20:15:37
+* @Last Modified time: 2021-08-03 18:58:35
 */
+
+// Optimised solution
+class Solution {
+    public int numDecodings(String s) {
+        int dp_i = 1;
+        int dp_i_minus_1 = 1;
+        int dp_i_minus_2 = 1;
+        
+        if(s.charAt(0) == '0') return 0;
+        
+        for(int i = 1; i < s.length(); i++) {
+            int oneDigit = Integer.valueOf(s.substring(i, i + 1));
+            int twoDigit = Integer.valueOf(s.substring(i - 1, i + 1));
+            if(oneDigit == 0) {
+                if(twoDigit < 1 || twoDigit > 26) return 0;
+                else dp_i = dp_i_minus_2;
+            } 
+            else if(twoDigit >= 11 && twoDigit <= 26)
+                dp_i = dp_i_minus_1 + dp_i_minus_2;
+            else
+                dp_i = dp_i_minus_1;
+                
+            dp_i_minus_2 = dp_i_minus_1;
+            dp_i_minus_1 = dp_i;
+        }
+        
+        return dp_i;
+    }
+}
+
 
 // Solution with less space consumption
 class Solution {
