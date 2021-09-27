@@ -13,6 +13,19 @@
  *     }
  * }
  */
+// recursive solution
+class Solution {
+    public int findDepth(TreeNode node, int depth) {
+        if(node == null) return depth;
+        return Math.max(findDepth(node.left, depth + 1), findDepth(node.right, depth + 1));
+    }
+    public int maxDepth(TreeNode root) {
+        
+        return findDepth(root, 0);
+    }
+}
+
+// iterative solution
 class Solution {
     public int maxDepth(TreeNode root) {
         Deque<TreeNode> queue = new LinkedList<> ();
